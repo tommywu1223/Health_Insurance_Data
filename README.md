@@ -1,1 +1,2 @@
 # Health_Insurance_Data
+This project was concieved initially as my first project that related to my passion and knowledge in the health care domain. I used basic functions in python and the built-in libraries: pandas and matplotlib to analyze indicators that lead to an increase in policy holder's premiums. I also used the information gathered to draw some inferences on an area where one can increase health services. 
